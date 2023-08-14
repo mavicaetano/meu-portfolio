@@ -1,0 +1,13 @@
+.place-content-center {
+    place-content: center;
+}
+
+a:active {
+    color: darkred !important;
+}
+
+.do-not-click {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+}
