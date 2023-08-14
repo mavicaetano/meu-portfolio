@@ -8,7 +8,7 @@ class ButtonComponent extends React.Component {
 
     render() {
         return (
-            <Button className={'do-not-click'} variant="danger" onClick={this.handleClick}>Não clique</Button>
+            <Button className={'do-not-click'} variant="danger" onClick={this.handleClick}>Não clique neste botão</Button>
         );
     }
 }
