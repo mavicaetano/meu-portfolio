@@ -5,7 +5,7 @@ import Button from "./Button.jsx";
 const About = () => (
     <Col className="text-center">
         <h1>Sobre mim</h1>
-        <p>Olá, eu sou Maria Vicente. Atualmente estou me formando em desenvolvimento de software.
+        <p>Olá, eu sou a Maria Vicente, tenho 25 anos e estou estudando para ser uma desenvolvedor Full-Stack.
             Decidi mudar para a área da tecnologia porque sempre me interessei muito por ela.
             Estou muito animada para continuar aprendendo e crescendo neste campo!</p>
 
