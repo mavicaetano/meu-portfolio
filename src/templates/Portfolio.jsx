@@ -1,4 +1,5 @@
 import { ListGroup } from 'react-bootstrap';
+import Button from "./Button.jsx";
 
 const withoutUnderline = {
     textDecoration: 'none',
@@ -30,6 +31,7 @@ const Portfolio = () => (
                 </a>
             </ListGroup.Item>
         </ListGroup>
+        <Button/>
     </div>
 );
 
