@@ -9,7 +9,7 @@ const About = () => (
             Decidi mudar para a área da tecnologia porque sempre me interessei muito por ela.
             Estou muito animada para continuar aprendendo e crescendo neste campo!</p>
 
-        <Image src="https://scontent.fjjg2-1.fna.fbcdn.net/v/t39.30808-6/286403799_5166839013407195_3650679134044742780_n.jpg?_nc_cat=105&cb=99be929b-59f725be&ccb=1-7&_nc_sid=be3454&_nc_eui2=AeEfAnwZG00oCMX1PY45DyZuFl_3dZ77nvwWX_d1nvue_JFGcXGWgYxRG8-PzqXMRa6sTkANGigH3U4iEvWuX2BY&_nc_ohc=y-CT1VP1HUUAX9MQTdE&_nc_ht=scontent.fjjg2-1.fna&oh=00_AfD-wX35sxBmPwDjdTKQVvazU6J5B0tJIWDopyLzF6gMzA&oe=64DE0B15" alt="Perfil" fluid />
+        <Image src="https://scontent.fjjg2-1.fna.fbcdn.net/v/t39.30808-6/286403799_5166839013407195_3650679134044742780_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEfAnwZG00oCMX1PY45DyZuFl_3dZ77nvwWX_d1nvue_JFGcXGWgYxRG8-PzqXMRa6sTkANGigH3U4iEvWuX2BY&_nc_ohc=aRjplpcxUuEAX8wenf9&_nc_ht=scontent.fjjg2-1.fna&oh=00_AfDJowxK3dCdB04v2mf5u4w_A1RibFcqbo9SMgUTBnP0ag&oe=65273655" alt="Perfil" fluid />
 
         <Row className="justify-content-center mt-3">
             <Col xs="auto">
